@@ -1,0 +1,38 @@
+{
+  "name": "google-web-components",
+  "version": "0.8.0",
+  "homepage": "https://github.com/GoogleWebComponents/google-web-components",
+  "authors": [
+    "The Polymer Authors"
+  ],
+  "description": "Google Web Components",
+  "keywords": [
+    "google",
+    "services",
+    "sign-in",
+    "maps",
+    "hangouts",
+    "charts"
+  ],
+  "license": "BSD",
+  "dependencies": {
+    "google-apis": "GoogleWebComponents/google-apis#0.8-preview",
+    "google-map": "GoogleWebComponents/google-map#0.8-preview",
+    "google-signin": "GoogleWebComponents/google-signin#0.8-preview",
+    "google-youtube": "GoogleWebComponents/google-youtube#0.8-preview",
+    "google-drive": "GoogleWebComponents/google-drive#0.8-preview",
+    "google-cloud": "GoogleWebComponents/google-cloud#0.8-preview",
+    "google-sheets": "GoogleWebComponents/google-sheets#0.8-preview",
+    "google-analytics": "GoogleWebComponents/google-analytics#0.8-preview",
+    "google-calendar": "GoogleWebComponents/google-calendar#0.8-preview",
+    "google-chart": "GoogleWebComponents/google-chart#0.8-preview",
+    "google-castable-video": "GoogleWebComponents/google-castable-video#0.8-preview",
+    "google-hangout-button": "GoogleWebComponents/google-hangout-button#0.8-preview",
+    "google-url-shortener": "GoogleWebComponents/google-url-shortener#0.8-preview",
+    "google-youtube-upload": "GoogleWebComponents/google-youtube-upload#0.8-preview",
+    "google-streetview-pano": "GoogleWebComponents/google-streetview-pano#0.8-preview"
+  },
+  "resolutions": {
+    "polymer": "v0.8.0-rc.6"
+  }
+}
