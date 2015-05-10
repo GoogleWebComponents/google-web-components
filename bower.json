@@ -17,6 +17,7 @@
   "license": "BSD",
   "dependencies": {
     "google-apis": "GoogleWebComponents/google-apis#0.8-preview",
+    "google-feeds": "GoogleWebComponents/google-feeds#0.8-preview",
     "google-map": "GoogleWebComponents/google-map#0.8-preview",
     "google-signin": "GoogleWebComponents/google-signin#0.8-preview",
     "google-youtube": "GoogleWebComponents/google-youtube#0.8-preview",
@@ -33,6 +34,6 @@
     "google-streetview-pano": "GoogleWebComponents/google-streetview-pano#0.8-preview"
   },
   "resolutions": {
-    "polymer": "v0.8.0-rc.6"
+    "polymer": "v0.9.0-rc.1"
   }
 }
