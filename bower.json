@@ -21,7 +21,6 @@
     "google-map": "GoogleWebComponents/google-map#0.8-preview",
     "google-signin": "GoogleWebComponents/google-signin#0.8-preview",
     "google-youtube": "GoogleWebComponents/google-youtube#0.8-preview",
-    "google-drive": "GoogleWebComponents/google-drive#0.8-preview",
     "google-sheets": "GoogleWebComponents/google-sheets#0.8-preview",
     "google-analytics": "GoogleWebComponents/google-analytics#0.8-preview",
     "google-calendar": "GoogleWebComponents/google-calendar#0.8-preview",
