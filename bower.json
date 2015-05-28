@@ -30,7 +30,7 @@
     "google-url-shortener": "GoogleWebComponents/google-url-shortener#^1.0.0",
     "google-youtube-upload": "GoogleWebComponents/google-youtube-upload#^1.0.0",
     "google-streetview-pano": "GoogleWebComponents/google-streetview-pano#^1.0.0",
-    "firebase-element": "GoogleWebComponents/firebase-element#^1.0.0",
+    "firebase-element": "GoogleWebComponents/firebase-element#^1.0.0"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0"
