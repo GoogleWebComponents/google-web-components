@@ -20,6 +20,7 @@
     "google-feeds": "GoogleWebComponents/google-feeds#^1.0.0",
     "google-map": "GoogleWebComponents/google-map#^1.0.0",
     "google-signin": "GoogleWebComponents/google-signin#^1.0.0",
+    "google-sheets": "GoogleWebComponents/google-sheets#^1.0.1",
     "google-youtube": "GoogleWebComponents/google-youtube#^1.1.0",
     "google-analytics": "GoogleWebComponents/google-analytics#^1.0.0",
     "google-calendar": "GoogleWebComponents/google-calendar#^1.0.0",
