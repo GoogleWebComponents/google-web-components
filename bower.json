@@ -12,7 +12,8 @@
     "sign-in",
     "maps",
     "hangouts",
-    "charts"
+    "charts",
+    "element-collection"
   ],
   "license": "BSD",
   "ignore": [
