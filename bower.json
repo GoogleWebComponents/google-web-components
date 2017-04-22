@@ -25,6 +25,7 @@
   ],
   "dependencies": {
     "google-apis": "GoogleWebComponents/google-apis#^1.0.0",
+    "google-drive": "GoogleWebComponents/google-drive#^1.0.1",
     "google-feeds": "GoogleWebComponents/google-feeds#^1.0.0",
     "google-map": "GoogleWebComponents/google-map#^1.0.0",
     "google-signin": "GoogleWebComponents/google-signin#^1.0.0",
